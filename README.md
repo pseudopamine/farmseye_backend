@@ -42,3 +42,4 @@
 - [**좌충우돌 Spring Security 세팅하기🔗**](https://www.notion.so/250408-Spring-Security-1ce3fd941ed68017a3a7cceefa199bfc?pvs=4)
 - [**Redux 상태 관리 라이브러리를 이용한 jwt 토큰 관리🔗**](https://www.notion.so/250409-React-Redux-1d53fd941ed6801a880ffc26e8eb0c61?pvs=4)
 - [**테이블 설계와 아키텍처 설정에 대한 끝없는 고민🔗**](https://www.notion.so/250430-ERD-feat-1e53fd941ed68056b3befb77946f0700?pvs=4)
+
